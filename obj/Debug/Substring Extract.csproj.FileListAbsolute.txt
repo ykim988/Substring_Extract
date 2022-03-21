@@ -1,0 +1,7 @@
+C:\Users\young.kim\source\repos\Substring Extract\bin\Debug\Substring Extract.exe.config
+C:\Users\young.kim\source\repos\Substring Extract\bin\Debug\Substring Extract.exe
+C:\Users\young.kim\source\repos\Substring Extract\bin\Debug\Substring Extract.pdb
+C:\Users\young.kim\source\repos\Substring Extract\obj\Debug\Substring Extract.csproj.AssemblyReference.cache
+C:\Users\young.kim\source\repos\Substring Extract\obj\Debug\Substring Extract.csproj.CoreCompileInputs.cache
+C:\Users\young.kim\source\repos\Substring Extract\obj\Debug\Substring Extract.exe
+C:\Users\young.kim\source\repos\Substring Extract\obj\Debug\Substring Extract.pdb
